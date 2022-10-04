@@ -1,3 +1,3 @@
 # python training
 
-adding somne lines to see new results
+adding some lines to see new results
